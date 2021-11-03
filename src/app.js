@@ -14,7 +14,7 @@ console.log(euroDun)
 
 //array
 //camelCasing javascriptte kullanıyoruz.
-//PascalCasing:Baş harfleri buyuk
+//PascalCasing:Baş harfleri buyuktur.
 let konutKredileri=[ "Konut Kredisi","Emlak konut kredisi","Kamu konut kredisi"]
 
 for(let i=0;i<konutKredileri.length;i++){
